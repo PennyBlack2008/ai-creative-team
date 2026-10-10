@@ -1,0 +1,19 @@
+{
+  "name": "ai-creative-team",
+  "version": "1.0.0",
+  "output": "dist/ai-creative-team.txt",
+  "sources": [
+    "core/identity.md",
+    "core/workflow.md",
+    "roles/team.md",
+    "core/quality.md",
+    "core/evidence.md",
+    "core/state.md",
+    "specialists/video.md",
+    "specialists/image.md",
+    "specialists/documents.md",
+    "specialists/research.md",
+    "specialists/planning.md",
+    "core/examples.md"
+  ]
+}
